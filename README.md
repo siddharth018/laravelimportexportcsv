@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://raw.githubusercontent.com/siddharth018/laravelimportexportcsv/master/import.png" width="100%"><p>
+<p align="center"><img src="https://raw.githubusercontent.com/siddharth018/laravelimportexportcsv/master/import.png" width="1020"><p>
 
 <p align="center"><img src="https://raw.githubusercontent.com/siddharth018/laravelimportexportcsv/master/list.png" width="400"><p>
 
