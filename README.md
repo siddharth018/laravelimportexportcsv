@@ -1,7 +1,7 @@
 
 <img src="https://raw.githubusercontent.com/siddharth018/laravelimportexportcsv/master/import.png" width="100%">
 
-<p align="center"><img src="https://raw.githubusercontent.com/siddharth018/laravelimportexportcsv/master/list.png" width="400"><p>
+<img src="https://raw.githubusercontent.com/siddharth018/laravelimportexportcsv/master/list.png" width="100%">
 
 ## About
 First Step: download in your system.
